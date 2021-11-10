@@ -3,10 +3,6 @@
 
 <h3 align="center">A Software Enginner from Brazil</h3>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=brenobattaglin&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="brenobattaglin" />
-</div>
-
-<div align="center">
     <a href="https://github.com/brenobattaglin">
         <img src="https://img.shields.io/badge/Github-ECEFF4?style=for-the-badge&logo=github&logoColor=181717" />
     </a>
@@ -26,6 +22,9 @@
     <a href="https://www.twitter.com/brenobattaglin">
         <img src="https://img.shields.io/badge/twitter-ECEFF4?style=for-the-badge&logo=twitter&logoColor=1DA1F2" />
     </a>
+    <br/>
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=brenobattaglin&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="brenobattaglin" />
 </div>
 <br />
 <h3 align="left">Languages and Tools:</h3>
