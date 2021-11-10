@@ -2,6 +2,9 @@
 </h1>
 
 <h3 align="center">A Software Enginner from Brazil</h3>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=brenobattaglin&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="brenobattaglin" />
+</div>
 
 <div align="center">
     <a href="https://github.com/brenobattaglin">
@@ -183,10 +186,4 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenobattaglin&show_icons=true&theme=default&locale=en&layout=compact&hide_border=true"
             alt="brenobattaglin" />
     </p>
-</div>
-<br />                               
-<h3 align="left">Stats:</h3>
-<div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=brenobattaglin&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-        alt="brenobattaglin" />
 </div>
