@@ -3,7 +3,6 @@
 
 <h3 align="center">A Software Enginner from Brazil</h3>
 
-
 <div align="center">
     <a href="https://github.com/brenobattaglin">
         <img src="https://img.shields.io/badge/Github-ECEFF4?style=for-the-badge&logo=github&logoColor=181717" />
@@ -25,9 +24,8 @@
         <img src="https://img.shields.io/badge/twitter-ECEFF4?style=for-the-badge&logo=twitter&logoColor=1DA1F2" />
     </a>
 </div>
-<hr />
-
-<h3 align="center">Languages and Tools:</h3>
+<br />
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
     <a href="https://developer.android.com" target="_blank"><img
@@ -101,6 +99,9 @@
     <a href="https://jestjs.io" target="_blank">
         <img src="https://img.shields.io/badge/jest-ECEFF4?style=for-the-badge&logo=jest&logoColor=C21325" alt="jest" />
     </a>
+    <a href="https://jquery.com" target="_blank">
+        <img src="https://img.shields.io/badge/jquery-ECEFF4?style=for-the-badge&logo=jquery&logoColor=0769AD" alt="jquery" />
+    </a>
     <a href="https://www.elastic.co/kibana" target="_blank">
         <img src="https://img.shields.io/badge/kibana-ECEFF4?style=for-the-badge&logo=kibana&logoColor=005571"
             alt="kibana" />
@@ -134,11 +135,11 @@
             alt="mysql" />
     </a>
     <a href="https://nextjs.org/" target="_blank">
-        <img src="https://img.shields.io/badge/next.js-ECEFF4?style=for-the-badge&logo=nextjs&logoColor=000000"
+        <img src="https://img.shields.io/badge/next.js-ECEFF4?style=for-the-badge&logo=next.js&logoColor=000000"
             alt="next.js" />
     </a>
     <a href="https://nodejs.org" target="_blank">
-        <img src="https://img.shields.io/badge/node.js-ECEFF4?style=for-the-badge&logo=nodejs&logoColor=339933"
+        <img src="https://img.shields.io/badge/node.js-ECEFF4?style=for-the-badge&logo=node.js&logoColor=339933"
             alt="nodejs" />
     </a>
     <a href="https://www.php.net" target="_blank">
@@ -178,15 +179,14 @@
     </a>
     <br />
     <br />
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenobattaglin&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true"
+    <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenobattaglin&show_icons=true&theme=default&locale=en&layout=compact&hide_border=true"
             alt="brenobattaglin" />
     </p>
 </div>
-<hr />
-<h3 align="center">Stats:</h3>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=brenobattaglin&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+<br />                               
+<h3 align="left">Stats:</h3>
+<div align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=brenobattaglin&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
         alt="brenobattaglin" />
 </div>
