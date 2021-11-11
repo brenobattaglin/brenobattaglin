@@ -31,6 +31,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
+    <a href="https://dotnet.microsoft.com/">
+        <img src="https://img.shields.io/badge/.net-2E3440?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="dotnet" />
+    </a>
     <a href="https://developer.android.com">
         <img src="https://img.shields.io/badge/android-2E3440?style=for-the-badge&logo=android&logoColor=3DDC84" />
     </a>
@@ -43,7 +46,7 @@
             alt="bootstrap" />
     </a>
     <a href="https://www.w3schools.com/cs/">
-        <img src="https://img.shields.io/badge/c_sharp-2E3440?style=for-the-badge&logo=csharp&logoColor=239120"
+        <img src="https://img.shields.io/badge/c%23-2E3440?style=for-the-badge&logo=csharp&logoColor=239120"
             alt="csharp" />
     </a>
     <a href="https://www.w3schools.com/css/">
@@ -55,10 +58,6 @@
     <a href="https://www.docker.com/">
         <img src="https://img.shields.io/badge/docker-2E3440?style=for-the-badge&logo=docker&logoColor=2496ED"
             alt="docker" />
-    </a>
-    <a href="https://dotnet.microsoft.com/">
-        <img src="https://img.shields.io/badge/dotnet-2E3440?style=for-the-badge&logo=dotnet&logoColor=512BD4"
-            alt="dotnet" />
     </a>
     <a href="https://expressjs.com">
         <img src="https://img.shields.io/badge/express-2E3440?style=for-the-badge&logo=express&logoColor=000000"
