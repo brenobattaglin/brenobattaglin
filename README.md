@@ -172,16 +172,16 @@
             alt="sqlite" />
     </a>
     <a href="https://tailwindcss.com/">
-        <img src="https://img.shields.io/badge/tailwind_css-2E3440?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"
-            alt="tailwindcss" />
+        <img src="https://img.shields.io/badge/tailwind_css-2E3440?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="tailwindcss" />
     </a>
     <a href="https://www.typescriptlang.org/">
-        <img src="https://img.shields.io/badge/typescript-2E3440?style=for-the-badge&logo=typescript&logoColor=3178C6"
-            alt="typescript" />
+        <img src="https://img.shields.io/badge/typescript-2E3440?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="typescript" />
     </a>
     <a href="https://unity.com/">
-        <img src="https://img.shields.io/badge/unity-2E3440?style=for-the-badge&logo=unity&logoColor=000000"
-            alt="unity" />
+        <img src="https://img.shields.io/badge/unity-2E3440?style=for-the-badge&logo=unity&logoColor=000000" alt="unity" />
+    </a>
+    <a href="https://vercel.com/">
+        <img src="https://img.shields.io/badge/vercel-2E3440?style=for-the-badge&logo=vercel&logoColor=000000" alt="unity" />
     </a>
     <br />
     <br />
