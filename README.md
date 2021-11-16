@@ -140,6 +140,10 @@
         <img src="https://img.shields.io/badge/mysql-2E3440?style=for-the-badge&logo=mysql&logoColor=4479A1"
             alt="mysql" />
     </a>
+    <a href="https://www.netlify.com/">
+        <img src="https://img.shields.io/badge/netlify-2E3440?style=for-the-badge&logo=netlify&logoColor=00C7B7"
+            alt="next.js" />
+    </a>
     <a href="https://nextjs.org/">
         <img src="https://img.shields.io/badge/next.js-2E3440?style=for-the-badge&logo=next.js&logoColor=000000"
             alt="next.js" />
