@@ -3,9 +3,6 @@
 
 <h3 align="center">A Software Enginner from Brazil</h3>
 <div align="center">
-    <a href="https://github.com/brenobattaglin">
-        <img src="https://img.shields.io/badge/Github-2E3440?style=for-the-badge&logo=github&logoColor=181717" />
-    </a>
     <a href="https://www.hackerrank.com/brenobattaglin">
         <img
             src="https://img.shields.io/badge/hackerrank-2E3440?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
