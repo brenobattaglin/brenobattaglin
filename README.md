@@ -1,5 +1,4 @@
-<h1 align="center">Hello, I'm Breno. <img src="https://media.giphy.com/media/xUA7bb2nI9Q9j98B56/giphy.gif" height="42">
-</h1>
+<h1 align="center">Hello, I'm Breno. 👋🏻</h1>
 
 <h3 align="center">A Software Enginner from Brazil</h3>
 <div align="center">
