@@ -24,11 +24,6 @@
       src="https://img.shields.io/badge/spotify-2E3440?style=for-the-badge&logo=spotify&logoColor=5E81AC"
     />
   </a>
-  <a href="https://www.twitter.com/brenobattaglin">
-    <img
-      src="https://img.shields.io/badge/twitter-2E3440?style=for-the-badge&logo=twitter&logoColor=5E81AC"
-    />
-  </a>
   <br />
   <br />
   <img
