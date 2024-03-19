@@ -31,9 +31,4 @@
     alt="brenobattaglin"
   />
 
-  <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=brenobattaglin&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true"
-    alt="brenobattaglin"
-  />
 </div>
