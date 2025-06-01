@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - name: generate github-grid-snake.svg
+      - name: generate svg
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,7 +24,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=#2E3440&color_dots=#12086f,#2b35af,#4361ee,#4895ef,#4cc9f0
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push svg file output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
