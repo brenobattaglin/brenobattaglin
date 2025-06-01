@@ -1,0 +1,26 @@
+name: generate snake game animation
+
+on:
+  schedule:
+    - cron: "0 */24 * * *" 
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=#2E3440&color_dots=#12086f,#2b35af,#4361ee,#4895ef,#4cc9f0
